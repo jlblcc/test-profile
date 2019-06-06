@@ -32,10 +32,6 @@
     "target": "record.show.edit.lineage",
     "tip": "Information on the history of the resource."
   }, {
-    "title": "Taxonomy",
-    "target": "record.show.edit.taxonomy",
-    "tip": "Information on the taxa associated with the resource."
-  }, {
     "title": "Distribution",
     "target": "record.show.edit.distribution",
     "tip": "Information about obtaining the resource."
@@ -51,10 +47,6 @@
     "title": "Documents",
     "target": "record.show.edit.documents",
     "tip": "Other documents related to, but not defining, the resource."
-  }, {
-    "title": "Funding",
-    "target": "record.show.edit.funding",
-    "tip": "Information about funding allocated to development of the resource."
   }, {
     "title": "Dictionaries",
     "target": "record.show.edit.dictionary",
