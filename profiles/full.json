@@ -1,0 +1,1076 @@
+{
+  "identifier": "full",
+  "namespace": "org.adiwg.profile",
+  "alternateId": [],
+  "title": "Full",
+  "description": "Every supported component",
+  "version": "0.0.0",
+  "components": {
+    "record": {
+      "main": {
+        "basicInformation": {},
+        "recordId": {},
+        "title": {},
+        "status": {},
+        "defaultLocale": {},
+        "resourceType": {},
+        "pointOfContact": {},
+        "citation": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "edition": {},
+          "presentationForm": {},
+          "responsibleParty": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          },
+          "identifier": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              },
+              "identifier": {},
+              "identifierSimple": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              },
+              "identifierShort": {}
+            }
+          },
+          "identifierSimple": {},
+          "identifierShort": {},
+          "series": {
+            "name": {},
+            "issue": {},
+            "page": {}
+          },
+          "otherCitationDetails": {},
+          "graphicOverview": {}
+        },
+        "description": {},
+        "abstract": {},
+        "shortAbstract": {},
+        "purpose": {},
+        "supplementalInfo": {},
+        "environmentDescription": {},
+        "timePeriod": {
+          "date": {},
+          "id": {},
+          "description": {},
+          "periodName": {},
+          "interval": {},
+          "timeInterval": {
+            "interval": {},
+            "units": {}
+          },
+          "duration": {
+            "years": {},
+            "months": {},
+            "days": {},
+            "hours": {},
+            "minutes": {},
+            "seconds": {}
+          }
+        },
+        "maintenance": {},
+        "graphicOverview": {},
+        "credit": {}
+      },
+      "metadata": {
+        "basicInformation": {},
+        "metadataStatus": {},
+        "metadataDate": {},
+        "metadataContact": {},
+        "metadataIdentifier": {},
+        "parentMetadata": {},
+        "onlineResource": {
+          "name": {},
+          "url": {},
+          "protocol": {},
+          "description": {},
+          "onlineFunction": {}
+        },
+        "maintenance": {
+          "frequency": {},
+          "date": {},
+          "contact": {},
+          "note": {},
+          "scope": {}
+        },
+        "defaultLocale": {},
+        "alternateMetadataReference": {},
+        "lineage": {
+          "lineageobject": {
+            "citation": {
+              "identifier": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              }
+            }
+          }
+        },
+        "associated": {},
+        "taxonomy": {
+          "collection": {
+            "system": {
+              "modifications": {},
+              "citation": {
+                "basicInformation": {},
+                "title": {},
+                "alternateTitle": {},
+                "date": {},
+                "edition": {},
+                "presentationForm": {},
+                "responsibleParty": {},
+                "onlineResource": {
+                  "name": {},
+                  "url": {},
+                  "protocol": {},
+                  "description": {},
+                  "onlineFunction": {}
+                },
+                "identifier": {},
+                "identifierSimple": {
+                  "identifier": {},
+                  "namespace": {},
+                  "version": {},
+                  "description": {},
+                  "authority": {
+                    "basicInformation": {},
+                    "title": {},
+                    "alternateTitle": {},
+                    "date": {},
+                    "responsibleParty": {},
+                    "onlineResource": {},
+                    "identifier": {},
+                    "identifierSimple": {},
+                    "identifierShort": {}
+                  }
+                },
+                "identifierShort": {},
+                "series": {
+                  "name": {},
+                  "issue": {},
+                  "page": {}
+                },
+                "otherCitationDetails": {},
+                "graphicOverview": {
+                  "name": {},
+                  "url": {},
+                  "protocol": {},
+                  "description": {},
+                  "onlineFunction": {}
+                }
+              }
+            }
+          }
+        },
+        "resourceLineage": {
+          "processStep": {
+            "reference": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "edition": {},
+              "presentationForm": {},
+              "responsibleParty": {},
+              "onlineResource": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              },
+              "identifier": {},
+              "identifierSimple": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              },
+              "identifierShort": {},
+              "series": {
+                "name": {},
+                "issue": {},
+                "page": {}
+              },
+              "otherCitationDetails": {},
+              "graphicOverview": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              }
+            }
+          },
+          "source": {
+            "sourceId": {},
+            "description": {},
+            "scope": {},
+            "sourceCitation": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              },
+              "identifier": {},
+              "identifierSimple": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {
+                    "name": {},
+                    "url": {},
+                    "protocol": {},
+                    "description": {},
+                    "onlineFunction": {}
+                  },
+                  "identifier": {},
+                  "identifierSimple": {
+                    "identifier": {},
+                    "namespace": {},
+                    "version": {},
+                    "description": {},
+                    "authority": {
+                      "basicInformation": {},
+                      "title": {},
+                      "alternateTitle": {},
+                      "date": {},
+                      "responsibleParty": {},
+                      "onlineResource": {},
+                      "identifier": {},
+                      "identifierSimple": {},
+                      "identifierShort": {}
+                    }
+                  },
+                  "identifierShort": {}
+                }
+              },
+              "identifierShort": {}
+            },
+            "metadataCitation": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              },
+              "identifier": {},
+              "identifierSimple": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              },
+              "identifierShort": {}
+            },
+            "referenceSystem": {
+              "referenceSystemType": {},
+              "referenceSystemIdentifier": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              }
+            },
+            "spatialResolution": {
+              "scaleFactor": {},
+              "levelOfDetail": {},
+              "measure": {
+                "type": {},
+                "value": {},
+                "units": {}
+              }
+            }
+          },
+          "citation": {
+            "basicInformation": {},
+            "title": {},
+            "alternateTitle": {},
+            "date": {},
+            "edition": {},
+            "presentationForm": {},
+            "responsibleParty": {},
+            "onlineResource": {
+              "name": {},
+              "url": {},
+              "protocol": {},
+              "description": {},
+              "onlineFunction": {}
+            },
+            "identifier": {},
+            "identifierSimple": {},
+            "identifierShort": {},
+            "series": {
+              "name": {},
+              "issue": {},
+              "page": {}
+            },
+            "otherCitationDetails": {},
+            "graphicOverview": {}
+          }
+        },
+        "identifier": {
+          "identifier": {},
+          "namespace": {},
+          "version": {},
+          "description": {},
+          "authority": {
+            "basicInformation": {},
+            "title": {},
+            "alternateTitle": {},
+            "date": {},
+            "responsibleParty": {},
+            "onlineResource": {},
+            "identifier": {},
+            "identifierSimple": {},
+            "identifierShort": {}
+          }
+        }
+      },
+      "extent": {
+        "bbox": {
+          "north": {},
+          "east": {},
+          "south": {},
+          "west": {}
+        }
+      },
+      "spatial": {
+        "spatialRepresentationType": {},
+        "spatialReferenceSystem": {
+          "referenceSystemType": {},
+          "referenceSystemIdentifier": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {
+                "name": {},
+                "url": {},
+                "protocol": {},
+                "description": {},
+                "onlineFunction": {}
+              },
+              "identifier": {},
+              "identifierSimple": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {},
+                "authority": {
+                  "basicInformation": {},
+                  "title": {},
+                  "alternateTitle": {},
+                  "date": {},
+                  "responsibleParty": {},
+                  "onlineResource": {},
+                  "identifier": {},
+                  "identifierSimple": {},
+                  "identifierShort": {}
+                }
+              },
+              "identifierShort": {}
+            }
+          }
+        },
+        "spatialResolution": {
+          "scaleFactor": {},
+          "levelOfDetail": {},
+          "measure": {
+            "type": {},
+            "value": {},
+            "units": {}
+          }
+        }
+      },
+      "distribution": {
+        "description": {},
+        "distributor": {
+          "transferOption": {
+            "transferSize": {},
+            "distributionUnit": {},
+            "onlineOption": {
+              "name": {},
+              "url": {},
+              "protocol": {},
+              "description": {},
+              "onlineFunction": {}
+            },
+            "distributionFormat": {},
+            "transferFrequency": {
+              "years": {},
+              "months": {},
+              "days": {},
+              "hours": {},
+              "minutes": {},
+              "seconds": {}
+            },
+            "offlineOption": {
+              "storage": {},
+              "density": {},
+              "units": {},
+              "numberOfVolumes": {},
+              "mediumFormat": {},
+              "identifier": {
+                "identifier": {},
+                "namespace": {},
+                "version": {},
+                "description": {}
+              },
+              "note": {}
+            }
+          },
+          "orderProcess": {
+            "fees": {},
+            "plannedAvailability": {},
+            "orderingInstructions": {},
+            "turnaround": {}
+          }
+        }
+      },
+      "associated": {
+        "associationType": {},
+        "initiativeType": {},
+        "resourceType": {},
+        "resourceCitation": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "edition": {},
+          "presentationForm": {},
+          "responsibleParty": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          },
+          "identifier": {},
+          "identifierSimple": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {},
+              "identifier": {},
+              "identifierSimple": {},
+              "identifierShort": {}
+            }
+          },
+          "identifierShort": {},
+          "series": {
+            "name": {},
+            "issue": {},
+            "page": {}
+          },
+          "otherCitationDetails": {},
+          "graphicOverview": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          }
+        },
+        "metadataCitation": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "responsibleParty": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          },
+          "identifier": {},
+          "identifierSimple": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {},
+              "identifier": {},
+              "identifierSimple": {},
+              "identifierShort": {}
+            }
+          },
+          "identifierShort": {}
+        }
+      },
+      "constraints": {
+        "type": {},
+        "useLimitation": {},
+        "legal": {
+          "accessConstraint": {},
+          "useConstraint": {},
+          "otherConstraint": {}
+        },
+        "security": {
+          "classification": {},
+          "classificationSystem": {},
+          "note": {},
+          "handlingDescription": {}
+        },
+        "responsibleParty": {},
+        "graphic": {
+          "name": {},
+          "url": {},
+          "protocol": {},
+          "description": {},
+          "onlineFunction": {}
+        }
+      },
+      "taxonomy": {
+        "collection": {
+          "taxonomicSystem": {
+            "citation": {
+              "title": {}
+            },
+            "modifications": {}
+          },
+          "observer": {},
+          "generalScope": {},
+          "identificationProcedure": {},
+          "identificationCompleteness": {},
+          "voucher": {}
+        }
+      },
+      "lineage": {
+        "statement": {},
+        "processStep": {
+          "source": {
+            "description": {}
+          },
+          "stepId": {},
+          "description": {},
+          "stepSource": {},
+          "stepProduct": {},
+          "processor": {},
+          "reference": {},
+          "timePeriod": {
+            "date": {},
+            "id": {},
+            "description": {},
+            "periodName": {},
+            "interval": {},
+            "timeInterval": {
+              "interval": {},
+              "units": {}
+            },
+            "duration": {
+              "years": {},
+              "months": {},
+              "days": {},
+              "hours": {},
+              "minutes": {},
+              "seconds": {}
+            }
+          },
+          "scope": {}
+        },
+        "source": {
+          "source": {
+            "description": {}
+          }
+        },
+        "citation": {},
+        "scope": {}
+      },
+      "documents": {
+        "resourceType": {},
+        "citation": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "edition": {},
+          "presentationForm": {},
+          "responsibleParty": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          },
+          "identifier": {},
+          "identifierSimple": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {},
+              "identifier": {},
+              "identifierSimple": {},
+              "identifierShort": {}
+            }
+          },
+          "identifierShort": {},
+          "series": {
+            "name": {},
+            "issue": {},
+            "page": {}
+          },
+          "otherCitationDetails": {},
+          "graphicOverview": {}
+        }
+      },
+      "funding": {
+        "allocation": {
+          "amount": {},
+          "currency": {},
+          "sourceAllocationId": {},
+          "sourceId": {},
+          "recipientId": {},
+          "responsibleParty": {},
+          "matching": {},
+          "description": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          }
+        },
+        "timePeriod": {
+          "date": {},
+          "id": {},
+          "description": {},
+          "periodName": {},
+          "interval": {},
+          "timeInterval": {
+            "interval": {},
+            "units": {}
+          },
+          "duration": {
+            "years": {},
+            "months": {},
+            "days": {},
+            "hours": {},
+            "minutes": {},
+            "seconds": {}
+          }
+        }
+      }
+    },
+    "dictionary": {
+      "main": {
+        "basicInformation": {},
+        "title": {},
+        "subject": {},
+        "responsibleParty": {},
+        "description": {},
+        "included": {},
+        "functionalLanguage": {},
+        "recommendedUse": {},
+        "locale": {}
+      },
+      "domain": {
+        "information": {},
+        "identifier": {},
+        "codeName": {},
+        "commonName": {},
+        "description": {},
+        "domainReference": {},
+        "domainItem": {
+          "name": {},
+          "value": {},
+          "definition": {}
+        }
+      },
+      "domainItem": {
+        "domainItem": {
+          "name": {},
+          "value": {},
+          "definition": {}
+        },
+        "reference": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "responsibleParty": {},
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          },
+          "identifier": {},
+          "identifierSimple": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {},
+              "identifier": {},
+              "identifierSimple": {},
+              "identifierShort": {}
+            }
+          },
+          "identifierShort": {}
+        }
+      },
+      "entity": {
+        "information": {},
+        "identifier": {},
+        "codeName": {},
+        "definition": {},
+        "commonName": {},
+        "alias": {},
+        "attribute": {
+          "name": {},
+          "dataType": {},
+          "definition": {},
+          "allowNull": {},
+          "information": {
+            "codeName": {},
+            "definition": {},
+            "dataType": {},
+            "allowNull": {},
+            "commonName": {},
+            "domain": {},
+            "alias": {},
+            "units": {},
+            "unitsResolution": {},
+            "caseSensitive": {},
+            "fieldWidth": {},
+            "missingValue": {},
+            "minValue": {},
+            "maxValue": {}
+          },
+          "valueRange": {},
+          "minValue": {},
+          "maxValue": {},
+          "timePeriod": {
+            "date": {},
+            "id": {},
+            "description": {},
+            "periodName": {},
+            "interval": {},
+            "timeInterval": {
+              "interval": {},
+              "units": {}
+            },
+            "duration": {
+              "years": {},
+              "months": {},
+              "days": {},
+              "hours": {},
+              "minutes": {},
+              "seconds": {}
+            }
+          },
+          "attributeReference": {
+            "basicInformation": {},
+            "title": {},
+            "alternateTitle": {},
+            "date": {},
+            "edition": {},
+            "presentationForm": {},
+            "responsibleParty": {},
+            "onlineResource": {},
+            "identifier": {},
+            "identifierSimple": {
+              "identifier": {},
+              "namespace": {},
+              "version": {},
+              "description": {},
+              "authority": {
+                "basicInformation": {},
+                "title": {},
+                "alternateTitle": {},
+                "date": {},
+                "responsibleParty": {},
+                "onlineResource": {},
+                "identifier": {},
+                "identifierSimple": {},
+                "identifierShort": {}
+              }
+            },
+            "identifierShort": {},
+            "series": {
+              "name": {},
+              "issue": {},
+              "page": {}
+            },
+            "otherCitationDetails": {},
+            "graphicOverview": {}
+          }
+        },
+        "structure": {
+          "fieldSeparatorCharacter": {},
+          "numberOfHeaderLines": {},
+          "quoteCharacter": {}
+        },
+        "keys": {},
+        "index": {
+          "name": {},
+          "attributes": {},
+          "allowDuplicates": {}
+        },
+        "entityReference": {
+          "basicInformation": {},
+          "title": {},
+          "alternateTitle": {},
+          "date": {},
+          "edition": {},
+          "presentationForm": {},
+          "responsibleParty": {},
+          "onlineResource": {},
+          "identifier": {},
+          "identifierSimple": {},
+          "identifierShort": {},
+          "series": {
+            "name": {},
+            "issue": {},
+            "page": {}
+          },
+          "otherCitationDetails": {},
+          "graphicOverview": {
+            "name": {},
+            "url": {},
+            "protocol": {},
+            "description": {},
+            "onlineFunction": {}
+          }
+        },
+        "localAttributes": {},
+        "referencedAttributes": {},
+        "citation": {
+          "identifier": {
+            "identifier": {},
+            "namespace": {},
+            "version": {},
+            "description": {},
+            "authority": {
+              "basicInformation": {},
+              "title": {},
+              "alternateTitle": {},
+              "date": {},
+              "responsibleParty": {},
+              "onlineResource": {},
+              "identifier": {},
+              "identifierSimple": {},
+              "identifierShort": {}
+            }
+          }
+        }
+      },
+      "entitykeys": {
+        "primaryKey": {},
+        "foreignKey": {}
+      }
+    }
+  },
+  "nav": {
+    "record": [{
+      "title": "Main",
+      "target": "record.show.edit.main",
+      "tip": "Basic information about the resource."
+    }, {
+      "title": "Metadata",
+      "target": "record.show.edit.metadata",
+      "tip": "Information about the metadata for the resource."
+    }, {
+      "title": "Keywords",
+      "target": "record.show.edit.keywords",
+      "tip": "Terms used to describe the resource."
+    }, {
+      "title": "Extent",
+      "target": "record.show.edit.extent",
+      "tip": "Information describing the bounds of the resource."
+    }, {
+      "title": "Spatial",
+      "target": "record.show.edit.spatial",
+      "tip": "Information concerning the spatial attributes of the resource."
+    }, {
+      "title": "Lineage",
+      "target": "record.show.edit.lineage",
+      "tip": "Information on the history of the resource."
+    }, {
+      "title": "Taxonomy",
+      "target": "record.show.edit.taxonomy",
+      "tip": "Information on the taxa associated with the resource."
+    }, {
+      "title": "Distribution",
+      "target": "record.show.edit.distribution",
+      "tip": "Information about obtaining the resource."
+    }, {
+      "title": "Constraints",
+      "target": "record.show.edit.constraint",
+      "tip": "Information about constraints applied to the resource."
+    }, {
+      "title": "Associated",
+      "target": "record.show.edit.associated",
+      "tip": "Other resources with a defined relationship to the resource."
+    }, {
+      "title": "Documents",
+      "target": "record.show.edit.documents",
+      "tip": "Other documents related to, but not defining, the resource."
+    }, {
+      "title": "Funding",
+      "target": "record.show.edit.funding",
+      "tip": "Information about funding allocated to development of the resource."
+    }, {
+      "title": "Dictionaries",
+      "target": "record.show.edit.dictionary",
+      "tip": "Data dictionaries associated with the resource."
+    }],
+    "dictionary": [{
+      "title": "Main",
+      "target": "dictionary.show.edit.index",
+      "tip": "Basic information about the dictionary."
+    }, {
+      "title": "Citation",
+      "target": "dictionary.show.edit.citation",
+      "tip": "The citation for the dictionary."
+    }, {
+      "title": "Domains",
+      "target": "dictionary.show.edit.domain",
+      "tip": "Information about defined value lists."
+    }, {
+      "title": "Entities",
+      "target": "dictionary.show.edit.entity",
+      "tip": "Information about entities(tables) and attributes(columns or fields)."
+    }]
+  }
+}
