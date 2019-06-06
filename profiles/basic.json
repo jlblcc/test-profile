@@ -4,7 +4,7 @@
   "alternateId": [],
   "title": "Basic Module",
   "description": "Basic Module Profile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "components": {
     "record": {
       "main": {
@@ -25,6 +25,37 @@
           "duration": false
         },
         "graphicOverview": false
+      },
+      "metadata": {
+        "maintenance": {
+          "date": false,
+          "contact": false,
+          "note": false,
+          "scope": false
+        },
+        "defaultLocale": false,
+        "alternateMetadataReference": false
+      },
+      "distribution": {
+        "distributor": {
+          "transferOption": {
+            "transferFrequency": false,
+            "offlineOption": {
+              "density": false,
+              "units": false,
+              "numberOfVolumes": false,
+              "identifier": false
+            }
+          }
+        }
+      },
+      "associated": {
+        "resourceCitation": {
+          "graphicOverview": false
+        }
+      },
+      "constraints": {
+        "graphic": false
       }
     }
   },
@@ -45,14 +76,6 @@
       "title": "Extent",
       "target": "record.show.edit.extent",
       "tip": "Information describing the bounds of the resource."
-    }, {
-      "title": "Spatial",
-      "target": "record.show.edit.spatial",
-      "tip": "Information concerning the spatial attributes of the resource."
-    }, {
-      "title": "Lineage",
-      "target": "record.show.edit.lineage",
-      "tip": "Information on the history of the resource."
     }, {
       "title": "Distribution",
       "target": "record.show.edit.distribution",
