@@ -4,7 +4,7 @@
   "alternateId": [],
   "title": "Minimal",
   "description": "A Minimalist Profile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "components": {
     "record": {
       "main": {
