@@ -8,7 +8,9 @@
   "components": {
     "record": {
       "main": {
-        "recordId": false,
+        "basicInformation": {
+          "recordId": false
+        },
         "purpose": false,
         "environmentDescription": false,
         "supplementalInfo": false,
